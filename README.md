@@ -1,4 +1,4 @@
-# Random Minecraft Knock-off
+# MC
 
 [![License](https://img.shields.io/badge/license-CC--BY--SA--4.0-green.svg)](LICENSE)
 
