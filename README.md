@@ -4,14 +4,11 @@
 
 ## Description
 
-The physics have been implemented but it is missing most features of real Minecraft.
+ill update later
 
 ## Features
 
-- jump
-- walk
-- sprint
-- look around
+ill update later
 
 ## Installation
 
@@ -19,7 +16,7 @@ The physics have been implemented but it is missing most features of real Minecr
 
 ## Usage
 
-Open index.html with Live Server Preview
+ill update later
 
 ## Contributing
 
